@@ -1,4 +1,3 @@
-Ported from the ds-lesson-starters-repo [here](https://github.com/learn-co-curriculum/ds-lessons-starter/tree/master/lesson-plans-by-mod/Module-1/pandas-3-data-cleaning).
 Data Cleaning in Pandas
 ===
 ​
@@ -8,7 +7,7 @@ Data Cleaning in Pandas
 **Topic**: Pandas 3 - Data Cleaning  <br/>
 **Amount of time**: 90 minutes <br/>
 **Author**: Miles Erickson
-​
+​Ported from the ds-lesson-starters-repo [here](https://github.com/learn-co-curriculum/ds-lessons-starter/tree/master/lesson-plans-by-mod/Module-1/pandas-3-data-cleaning).
 ​
 ***
 ​
